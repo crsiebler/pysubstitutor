@@ -3,7 +3,7 @@
 This repository contains an export of my Text Substitutions. Below is a table of them to visualize:
 
 | Shortcut | Phrase |
-|---|:--|
+|:--|:--|
 | $40 | lucky&!candyxl&legendary,ultra beasts,mythical |
 | $act | interactable |
 | $adventure | 79,83,133,211,349,438,440,527,215,562,674,682,684,669,670,921,922 |
