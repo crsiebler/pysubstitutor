@@ -136,8 +136,8 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>reshiram,
-				heatran,+volcarona,+chandelure,moltres,entei,+blaziken,+blacephalon,victini,+delphox</string>
+			<string>
+				reshiram,heatran,+volcarona,+chandelure,moltres,entei,+blaziken,+blacephalon,victini,+delphox</string>
 			<key>shortcut</key>
 			<string>$fire</string>
 		</dict>
@@ -204,8 +204,8 @@
 		<dict>
 			<key>phrase</key>
 			<string>
-				+Abomasnow,+Altaria,+Amoonguss,+Ampharos,+Annihilape,+Araquanid,+Arcanine,+Arctibax,+Ariados,+Armarouge,+Aromatisse,+Aurorus,+Avalugg,+Azumarill,+Bastiodon,+Bellibolt,+Bellossom,+Bibarel,+Blastoise,+Bombirdier,+Bronzong,+Carbink,Castform,+Cetitan,+Charizard,+Charjabug,+Chesnaught,+Claydol,+Clefable,+Clodsire,+Cofagrigus,Corsola,+Corviknight,+Cradily,Cresselia,+Dachsbun,+Decidueye,Dedenne,+Dewgong,+Diggersby,+Donphan,+Dragalge,+Dragapult,+Dragonite,Drampa,+Drapion,+Drifblim,+Dubwool,+Dugtrio,+Dunsparce,+Dusknoir,+Electivire,+Electrode,+Emolga,+Empoleon,+Farfetch’d,+Feraligatr,+Ferrothorn,+Florges,+Flygon,+Forretress,+Froslass,+Furfrou,+Furret,+Gallade,+Gastrodon,+Gengar,+Giratina,+Glalie,+Gliscor,+Gogoat,+Golisopod,+Golurk,+Goodra,+Gourgeist,+Granbull,+Greedent,+Greninja,+Grimer,+Grumpig,+Guzzlord,+Gyarados,+Hakamo-o,+Hawlucha,+Hippowdon,+Hydreigon,+Jellicent,+Jumpluff,Klefki,+Kommo-o,+Lanturn,Lapras,+Leavanny,+Lickilicky,+Linoone,+Litleo,+Lokix,+Lurantis,+Machamp,+Magcargo,+Magnezone,+Malamar,+Mandibuzz,+Mantine,+Marowak,+Mawile,+Medicham,+Meganium,+Melmetal,Mew,+Mightyena,Miltank,Moltres,Morpeko,+Munchlax,+Nidoqueen,+Ninetales,+Obstagoon,+Oinkologne,+Oranguru,+Overqwil,+Pachirisu,Palkia,+Pangoro,+Pelipper,+Perrserker,+Piloswine,+Poliwrath,+Pumpkaboo,+Quagsire,+Qwilfish,+Raichu,Raikou,+Rapidash,+Raticate,Regice,Regirock,Registeel,Relicanth,+Rhyperior,+Roserade,+Runerigus,+Sableye,+Salazzle,+Samurott,+Sandslash,+Scrafty,+Serperior,+Shiftry,Skarmory,+Skeledirge,+Skuntank,+Sneasler,Spinda,Spiritomb,+Starmie,+Steelix,Stunfisk,Suicune,+Swalot,+Swampert,+Sylveon,+Talonflame,+Tapu
-				Fini,+Tentacruel,Togedemaru,+Togetic,+Toxapex,+Trevenant,Tropius,+Turtonator,+Typhlosion,+Umbreon,+Ursaring,+Vaporeon,+Venomoth,+Venusaur,+Victreebel,+Wailord,+Walrein,+Weezing,+Whimsicott,+Whiscash,+Wigglytuff,Zapdos</string>
+				+abomasnow,+altaria,+amoonguss,+ampharos,+annihilape,+araquanid,+arcanine,+arctibax,+ariados,+armarouge,+aromatisse,+aurorus,+avalugg,+azumarill,+bastiodon,+bellibolt,+bellossom,+bibarel,+blastoise,+bombirdier,+bronzong,+carbink,castform,+cetitan,+charizard,+charjabug,+chesnaught,+claydol,+clefable,+clodsire,+cofagrigus,corsola,+corviknight,+cradily,cresselia,+dachsbun,+decidueye,dedenne,+dewgong,+diggersby,+donphan,+dragalge,+dragapult,+dragonite,drampa,+drapion,+drifblim,+dubwool,+dugtrio,+dunsparce,+dusknoir,+electivire,+electrode,+emolga,+empoleon,+farfetch’d,+feraligatr,+ferrothorn,+florges,+flygon,+forretress,+froslass,+furfrou,+furret,+gallade,+gastrodon,+gengar,+giratina,+glalie,+gliscor,+gogoat,+golisopod,+golurk,+goodra,+gourgeist,+granbull,+greedent,+greninja,+grimer,+grumpig,+guzzlord,+gyarados,+hakamo-o,+hawlucha,+hippowdon,+hydreigon,+jellicent,+jumpluff,klefki,+kommo-o,+lanturn,lapras,+leavanny,+lickilicky,+linoone,+litleo,+lokix,+lurantis,+machamp,+magcargo,+magnezone,+malamar,+mandibuzz,+mantine,+marowak,+mawile,+medicham,+meganium,+melmetal,mew,+mightyena,miltank,moltres,morpeko,+munchlax,+nidoqueen,+ninetales,+obstagoon,+oinkologne,+oranguru,+overqwil,+pachirisu,palkia,+pangoro,+pelipper,+perrserker,+piloswine,+poliwrath,+pumpkaboo,+quagsire,+qwilfish,+raichu,raikou,+rapidash,+raticate,regice,regirock,registeel,relicanth,+rhyperior,+roserade,+runerigus,+sableye,+salazzle,+samurott,+sandslash,+scrafty,+serperior,+shiftry,skarmory,+skeledirge,+skuntank,+sneasler,spinda,spiritomb,+starmie,+steelix,stunfisk,suicune,+swalot,+swampert,+sylveon,+talonflame,+tapu
+				fini,+tentacruel,togedemaru,+togetic,+toxapex,+trevenant,tropius,+turtonator,+typhlosion,+umbreon,+ursaring,+vaporeon,+venomoth,+venusaur,+victreebel,+wailord,+walrein,+weezing,+whimsicott,+whiscash,+wigglytuff,zapdos</string>
 			<key>shortcut</key>
 			<string>$glmeta</string>
 		</dict>
@@ -255,7 +255,7 @@
 		</dict>
 		<dict>
 			<key>phrase</key>
-			<string>kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. Rime,
+			<string>kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. rime,
 				articuno,+avalugg</string>
 			<key>shortcut</key>
 			<string>$ice</string>
@@ -288,8 +288,8 @@
 		<dict>
 			<key>phrase</key>
 			<string>
-				great&amp;cp-1500&amp;+Accelgor,Alomomola,+Ariados,+Armarouge,+Aromatisse,Audino,+Bewear,+Bisharp,+Blaziken,+Blissey,+Braviary,Bruxish,Buzzwole,+Camerupt,Castform,+Charizard,Cherrim,+Clefable,Corsola,+Crawdaunt,+Crustle,+Darmanitan,+Deerling,+Delphox,Druddigon,+Dwebble,+Electrode,+Emboar,+Exeggcute,+Flaaffy,Flareon,+Goldeen,+Gorebyss,+Hatterene,+Heatmor,+Incineroar,+Jynx,+Kingler,+Kricketune,+Krookodile,Latias,+Ledian,+Lickilicky,+Lurantis,+Lycanroc,+Magcargo,+Magmortar,+Medicham,+Mesprit,+Milotic,Miltank,+Mr.
-				Mime,+Musharna,+Octillery,+Oricorio,+Parasect,+Porygon,Rotom,+Scizor,+Scolipede,+Scrafty,+Seaking,+Simisear,+Skeledirge,+Slowpoke,Snubbull,Solrock,Sylveon,+Talonflame,Throh,Turtonator,+Tyrantrum,+Vileplume,+Vivillon,+Wigglytuff,+Wormadam,+Wugtrio,+Yanma</string>
+				great&amp;cp-1500&amp;+accelgor,alomomola,+ariados,+armarouge,+aromatisse,audino,+bewear,+bisharp,+blaziken,+blissey,+braviary,bruxish,buzzwole,+camerupt,castform,+charizard,cherrim,+clefable,corsola,+crawdaunt,+crustle,+darmanitan,+deerling,+delphox,druddigon,+dwebble,+electrode,+emboar,+exeggcute,+flaaffy,flareon,+goldeen,+gorebyss,+hatterene,+heatmor,+incineroar,+jynx,+kingler,+kricketune,+krookodile,latias,+ledian,+lickilicky,+lurantis,+lycanroc,+magcargo,+magmortar,+medicham,+mesprit,+milotic,miltank,+mr.
+				mime,+musharna,+octillery,+oricorio,+parasect,+porygon,rotom,+scizor,+scolipede,+scrafty,+seaking,+simisear,+skeledirge,+slowpoke,snubbull,solrock,sylveon,+talonflame,throh,turtonator,+tyrantrum,+vileplume,+vivillon,+wigglytuff,+wormadam,+wugtrio,+yanma</string>
 			<key>shortcut</key>
 			<string>$love</string>
 		</dict>
@@ -346,9 +346,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>
-				+Annihilape,+Armarouge,Articuno,+Avalugg,+Baxcalibur,+Beartic,+Bewear,Blacephalon,Buzzwole,+Ceruledge,+Cetitan,+Chandelure,+Charizard,+Chesnaught,Cobalion,+Conkeldurr,+Cresselia,+Cursola,Darkrai,+Darmanitan,+Decidueye,Dhelmise,Dialga,+Donphan,+Dragapult,+Dragonite,+Electivire,+Empoleon,Enamorus,Entei,+Excadrill,+Feraligatr,+Florges,+Gallade,+Garchomp,+Gardevoir,Genesect,+Gengar,+Gholdengo,+Gigalith,Giratina,+Glaceon,+Gogoat,+Golisopod,+Golurk,+Goodra,+Greninja,Groudon,Guzzlord,+Gyarados,+Hariyama,+Haxorus,Heatran,+Hippowdon,Ho-Oh,Hoopa,+Hydreigon,+Incineroar,Jirachi,Keldeo,+Kommo-o,Kyogre,Kyurem,Landorus,Latias,Latios,Lugia,Lunala,+Machamp,+Magmortar,+Magnezone,+Mamoswine,Marshadow,+Melmetal,Meloetta,+Metagross,Mew,Mewtwo,+Milotic,Moltres,Necrozma,Nihilego,+Overqwil,Palkia,+Pangoro,+Passimian,+Primarina,Raikou,Rayquaza,Regirock,Reshiram,+Rhyperior,+Roserade,+Salamence,+Samurott,+Scizor,+Skeledirge,+Sneasler,+Snorlax,Solgaleo,Suicune,+Swampert,+Sylveon,+Tangrowth,Tapu
-				Bulu,Tapu Fini,Tapu Koko,Tapu
-				Lele,Terrakion,Thundurus,+Togekiss,Tornadus,+Typhlosion,+Tyranitar,+Ursaluna,+Vaporeon,Victini,Virizion,+Walrein,Xerneas,Xurkitree,Yveltal,Zacia,Zamazenta,Zapdos,Zarude,Zekrom,Zygarde</string>
+				+annihilape,+armarouge,articuno,+avalugg,+baxcalibur,+beartic,+bewear,blacephalon,buzzwole,+ceruledge,+cetitan,+chandelure,+charizard,+chesnaught,cobalion,+conkeldurr,+cresselia,+cursola,darkrai,+darmanitan,+decidueye,dhelmise,dialga,+donphan,+dragapult,+dragonite,+electivire,+empoleon,enamorus,entei,+excadrill,+feraligatr,+florges,+gallade,+garchomp,+gardevoir,genesect,+gengar,+gholdengo,+gigalith,giratina,+glaceon,+gogoat,+golisopod,+golurk,+goodra,+greninja,groudon,guzzlord,+gyarados,+hariyama,+haxorus,heatran,+hippowdon,ho-oh,hoopa,+hydreigon,+incineroar,jirachi,keldeo,+kommo-o,kyogre,kyurem,landorus,latias,latios,lugia,lunala,+machamp,+magmortar,+magnezone,+mamoswine,marshadow,+melmetal,meloetta,+metagross,mew,mewtwo,+milotic,moltres,necrozma,nihilego,+overqwil,palkia,+pangoro,+passimian,+primarina,raikou,rayquaza,regirock,reshiram,+rhyperior,+roserade,+salamence,+samurott,+scizor,+skeledirge,+sneasler,+snorlax,solgaleo,suicune,+swampert,+sylveon,+tangrowth,tapu
+				bulu,tapu fini,tapu koko,tapu
+				lele,terrakion,thundurus,+togekiss,tornadus,+typhlosion,+tyranitar,+ursaluna,+vaporeon,victini,virizion,+walrein,xerneas,xurkitree,yveltal,zacia,zamazenta,zapdos,zarude,zekrom,zygarde</string>
 			<key>shortcut</key>
 			<string>$mlmeta</string>
 		</dict>
@@ -575,9 +575,9 @@
 		<dict>
 			<key>phrase</key>
 			<string>
-				+Abomasnow,+Amoonguss,+Ampharos,+Annihilape,+Armarouge,Articuno,+Aurorus,+Avalugg,+Barbaracle,+Bellibolt,+Bellossom,+Blastoise,Bombirdier,+Bronzong,+Ceruledge,+Cetitan,+Chesnaught,+Claydol,+Clefable,+Clodsire,Cobalion,+Cofagrigus,+Corviknight,+Cradily,Cresselia,+Dachsbun,+Decidueye,Deoxys,Dhelmise,+Donphan,+Dragalge,+Dragapult,+Dragonite,+Drampa,+Drapion,+Drifblim,+Dusknoir,+Electivire,+Electrode,+Empoleon,Enamorus,+Excadrill,+Feraligatr,+Ferrothorn,+Florges,+Flygon,+Forretress,+Gallade,+Gastrodon,Genesect,+Gengar,Giratina,+Gliscor,+Gogoat,+Golem,+Golisopod,+Golurk,+Goodra,+Gourgeist,+Grafaiai,+Greninja,+Grumpig,Guzzlord,+Gyarados,+Hariyama,Hawlucha,Heatran,+Hippowdon,Ho-Oh,+Hydreigon,+Incineroar,+Jellicent,Jirachi,Kangaskhan,+Kommo-o,Kyurem,+Lanturn,Lapras,+Leavanny,+Lickilicky,+Lokix,+Lucario,Lunatone,+Lurantis,+Machamp,+Magmortar,+Magnezone,+Malamar,+Mandibuzz,Marshadow,+Meganium,+Melmetal,Meloetta,Mew,Mewtwo,+Milotic,Miltank,Moltres,Morpeko,+Muk,+Nidoqueen,+Ninetales,+Oinkologne,Oranguru,+Overqwil,+Palossand,+Pangoro,+Perrserker,+Piloswine,+Politoed,+Poliwrath,+Primarina,+Primeape,+Quagsire,+Qwilfish,+Raichu,Raikou,+Rapidash,Regice,Regirock,Registeel,+Relicanth,+Rhyperior,+Roserade,Rotom,+Runerigus,+Salazzle,+Sandslash,+Scrafty,+Serperior,+Skeledirge,+Skuntank,+Slowbro,+Slurpuff,+Sneasler,Solgaleo,Solrock,Spiritomb,+Staraptor,+Starmie,+Steelix,+Stunfisk,Suicune,+Swalot,+Swampert,+Sylveon,+Talonflame,Tapu
-				Bulu,Tapu Fini,Tapu
-				Lele,+Tentacruel,Togedemaru,+Togekiss,+Toxtricity,+Trevenant,Turtonator,+Typhlosion,+Umbreon,+Ursaring,Uxie,+Venusaur,Victini,+Victreebel,Virizion,+Wailord,+Walrein,+Weezing,+Whiscash,Yveltal,Zapdos,Zygarde</string>
+				+abomasnow,+amoonguss,+ampharos,+annihilape,+armarouge,articuno,+aurorus,+avalugg,+barbaracle,+bellibolt,+bellossom,+blastoise,bombirdier,+bronzong,+ceruledge,+cetitan,+chesnaught,+claydol,+clefable,+clodsire,cobalion,+cofagrigus,+corviknight,+cradily,cresselia,+dachsbun,+decidueye,deoxys,dhelmise,+donphan,+dragalge,+dragapult,+dragonite,+drampa,+drapion,+drifblim,+dusknoir,+electivire,+electrode,+empoleon,enamorus,+excadrill,+feraligatr,+ferrothorn,+florges,+flygon,+forretress,+gallade,+gastrodon,genesect,+gengar,giratina,+gliscor,+gogoat,+golem,+golisopod,+golurk,+goodra,+gourgeist,+grafaiai,+greninja,+grumpig,guzzlord,+gyarados,+hariyama,hawlucha,heatran,+hippowdon,ho-oh,+hydreigon,+incineroar,+jellicent,jirachi,kangaskhan,+kommo-o,kyurem,+lanturn,lapras,+leavanny,+lickilicky,+lokix,+lucario,lunatone,+lurantis,+machamp,+magmortar,+magnezone,+malamar,+mandibuzz,marshadow,+meganium,+melmetal,meloetta,mew,mewtwo,+milotic,miltank,moltres,morpeko,+muk,+nidoqueen,+ninetales,+oinkologne,oranguru,+overqwil,+palossand,+pangoro,+perrserker,+piloswine,+politoed,+poliwrath,+primarina,+primeape,+quagsire,+qwilfish,+raichu,raikou,+rapidash,regice,regirock,registeel,+relicanth,+rhyperior,+roserade,rotom,+runerigus,+salazzle,+sandslash,+scrafty,+serperior,+skeledirge,+skuntank,+slowbro,+slurpuff,+sneasler,solgaleo,solrock,spiritomb,+staraptor,+starmie,+steelix,+stunfisk,suicune,+swalot,+swampert,+sylveon,+talonflame,tapu
+				bulu,tapu fini,tapu
+				lele,+tentacruel,togedemaru,+togekiss,+toxtricity,+trevenant,turtonator,+typhlosion,+umbreon,+ursaring,uxie,+venusaur,victini,+victreebel,virizion,+wailord,+walrein,+weezing,+whiscash,yveltal,zapdos,zygarde</string>
 			<key>shortcut</key>
 			<string>$ulmeta</string>
 		</dict>
