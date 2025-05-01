@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 
 
-class FileConverterInterface(ABC):
+class ConverterInterface(ABC):
     """
     An interface for file conversion operations.
     """

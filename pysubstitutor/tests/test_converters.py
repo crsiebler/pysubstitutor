@@ -1,7 +1,9 @@
 import pytest
 import plistlib
-from pysubstitutor.plist_to_gboard import AppleToGboardConverter
-from pysubstitutor.text_substitution import TextSubstitution
+from pysubstitutor.converters.file_converter import FileConverter
+from pysubstitutor.handlers.gboard_handler import GboardHandler
+from pysubstitutor.handlers.plist_handler import PlistHandler
+from pysubstitutor.models import TextSubstitution
 
 
 @pytest.fixture
@@ -85,7 +87,9 @@ def test_read_file_with_list(sample_plist_file_as_list):
     """
     Tests the read_file method with a plist file that has a list as the top-level structure.
     """
-    converter = AppleToGboardConverter()
+    converter = FileConverter(
+        read_handler=PlistHandler(), export_handler=GboardHandler()
+    )
     converter.read_file(str(sample_plist_file_as_list))
 
     assert len(converter.entries) == 3
@@ -102,7 +106,9 @@ def test_read_file_with_dict(sample_plist_file_as_dict):
     """
     Tests the read_file method with a plist file that has a dictionary as the top-level structure.
     """
-    converter = AppleToGboardConverter()
+    converter = FileConverter(
+        read_handler=PlistHandler(), export_handler=GboardHandler()
+    )
     converter.read_file(str(sample_plist_file_as_dict))
 
     assert len(converter.entries) == 3
@@ -119,7 +125,9 @@ def test_export_file(sample_plist_file_as_list, expected_tsv_content, tmp_path):
     """
     Tests the export_file method with a plist file.
     """
-    converter = AppleToGboardConverter()
+    converter = FileConverter(
+        read_handler=PlistHandler(), export_handler=GboardHandler()
+    )
     converter.read_file(str(sample_plist_file_as_list))
 
     output_file = tmp_path / "output.tsv"
@@ -139,7 +147,9 @@ def test_read_file_with_invalid_format(tmp_path):
     with open(invalid_file, "w", encoding="utf-8") as file:
         file.write("Invalid content")
 
-    converter = AppleToGboardConverter()
+    converter = FileConverter(
+        read_handler=PlistHandler(), export_handler=GboardHandler()
+    )
     with pytest.raises(ValueError, match="Failed to read the input file"):
         converter.read_file(str(invalid_file))
 
@@ -148,7 +158,9 @@ def test_read_file_removes_newlines(sample_plist_file_with_newlines):
     """
     Tests the read_file method to ensure newlines are removed from phrases.
     """
-    converter = AppleToGboardConverter()
+    converter = FileConverter(
+        read_handler=PlistHandler(), export_handler=GboardHandler()
+    )
     converter.read_file(str(sample_plist_file_with_newlines))
 
     assert len(converter.entries) == 2
@@ -166,7 +178,9 @@ def test_read_file_replaces_multiple_whitespace(
     """
     Tests the read_file method to ensure multiple whitespace is replaced with a single space.
     """
-    converter = AppleToGboardConverter()
+    converter = FileConverter(
+        read_handler=PlistHandler(), export_handler=GboardHandler()
+    )
     converter.read_file(str(sample_plist_file_with_multiple_whitespace))
 
     assert len(converter.entries) == 2
