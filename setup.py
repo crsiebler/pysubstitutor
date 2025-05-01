@@ -2,7 +2,7 @@ from setuptools import find_packages, setup  # Correctly sorted imports
 
 setup(
     name="pysubstitutor",  # Match the directory name
-    version="1.0.0",  # Ensure this is a valid PEP 440 version
+    version="1.0.1",  # Ensure this is a valid PEP 440 version
     description="A Python package for converting text substitution files between different formats.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

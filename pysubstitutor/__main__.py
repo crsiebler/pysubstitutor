@@ -34,8 +34,8 @@ def main():
     converter = FileConverter(
         read_handler=read_handler, export_handler=export_handler, logger=logger
     )
-    converter.read_file(args.input)
-    converter.export_file(args.output)
+    converter.read(args.input)
+    converter.export(args.output)
 
     # Optionally zip the output
     if args.zip:
