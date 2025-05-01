@@ -18,5 +18,5 @@ COPY tests/ /app/tests/
 # Set the PYTHONPATH environment variable
 ENV PYTHONPATH=/app
 
-# Set the default command to run the Python application
-CMD ["python", "-m", "pysubstitutor"]  # Updated package name
+# Explicitly set the entrypoint
+ENTRYPOINT ["python", "-m", "pysubstitutor"]

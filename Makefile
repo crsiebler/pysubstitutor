@@ -19,10 +19,13 @@ deploy:
 	python3 -m twine upload dist/*
 
 help:
-	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor python -m pysubstitutor -h
+	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor -h
 
 run:
-	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor python -m pysubstitutor --input=data/input/text_substitutions.plist --output=data/output/table.md --zip=data/output/PersonalDictionary.zip
+	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor --input=data/input/text_substitutions.plist --output=data/output/dictionary.txt --zip=data/output/PersonalDictionary.zip
+
+run-md:
+	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor --input=data/input/text_substitutions.plist --output=data/output/dictionary.md
 
 test:
-	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor pytest tests
+	docker run --rm --entrypoint "" -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor pytest tests
