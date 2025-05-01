@@ -7,17 +7,17 @@ class ConverterInterface(ABC):
     """
 
     @abstractmethod
-    def read_file(self, input_file: str):
+    def read(self, input_stream):
         """
-        Reads data from the input file.
-        :param input_file: Path to the input file.
+        Reads data from a file-like input stream.
+        :param input_stream: File-like object for the input data.
         """
         pass
 
     @abstractmethod
-    def export_file(self, output_file: str):
+    def export(self, output_stream):
         """
-        Exports data to the output file.
-        :param output_file: Path to the output file.
+        Exports data to a file-like output stream.
+        :param output_stream: File-like object for the output data.
         """
         pass

@@ -25,27 +25,31 @@ class FileConverter(ConverterInterface):
         self.entries: List[TextSubstitution] = []
         self.logger = logger or logging.getLogger(__name__)
 
-    def read_file(self, input_file: str):
+    def read(self, input: str):
         """
         Reads data from the input file using the read handler.
-        :param input_file: Path to the input file.
+        :param input: Path to the input file.
+        :raises ValueError: If reading the file fails.
         """
-        self.logger.info(f"Reading input file: {input_file}")
+        self.logger.info(f"Reading input file: {input}")
         try:
-            self.entries = self.read_handler.read(input_file)
+            with open(input, "rb") as input_stream:
+                self.entries = self.read_handler.read(input_stream)
             self.logger.info(f"Loaded {len(self.entries)} entries from the input file.")
         except Exception as e:
             self.logger.error(f"Failed to read the input file: {e}")
             raise ValueError(f"Failed to read the input file: {e}")
 
-    def export_file(self, output_file: str):
+    def export(self, output: str):
         """
         Exports data to the output file using the export handler.
-        :param output_file: Path to the output file.
+        :param output: Path to the output file.
+        :raises ValueError: If exporting the file fails.
         """
-        self.logger.info(f"Exporting data to output file: {output_file}")
+        self.logger.info(f"Exporting data to output file: {output}")
         try:
-            self.export_handler.export(output_file, self.entries)
+            with open(output, "w", encoding="utf-8") as output_stream:
+                self.export_handler.export(output_stream, self.entries)
             self.logger.info(
                 f"Exported {len(self.entries)} entries to the output file."
             )
