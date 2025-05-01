@@ -66,6 +66,32 @@ Or, run the tests inside the Docker container:
 make test
 ```
 
+### Test Coverage
+
+**Prerequisites:** Ensure that the `coverage.py` tool is installed. It is included in the `environment.yml` file for the Conda environment and the Docker image. The commands below rely on this tool to generate and view coverage reports.
+
+To generate and view test coverage results, use the following commands:
+
+#### Generate Coverage Report
+Run the following command to generate a coverage report:
+```bash
+make coverage
+```
+
+#### View Coverage Summary
+To view the coverage summary in the terminal:
+```bash
+make coverage-report
+```
+
+#### View Coverage HTML
+To generate and open an HTML report in your browser:
+```bash
+make coverage-html
+```
+
+The HTML report provides a detailed breakdown of the test coverage for each file in the project.
+
 ### Execution
 
 Run the application inside the Docker container:
@@ -74,10 +100,3 @@ make run
 ```
 
 Replace the `--input` and `--output` arguments in the `Makefile` if you need to customize the input and output file paths.
-
-### Coverage Report
-
-The test workflow generates a coverage report, which can be downloaded as an artifact from the GitHub Actions page. To view the report locally:
-
-1. Download the `coverage-report` artifact from the workflow run.
-2. Extract the artifact and open `htmlcov/index.html` in your browser.
