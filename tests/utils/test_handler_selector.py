@@ -1,8 +1,9 @@
 import pytest
-from pysubstitutor.utils.handler_selector import get_handler_by_extension
-from pysubstitutor.handlers.plist_handler import PlistHandler
+
 from pysubstitutor.handlers.gboard_handler import GboardHandler
 from pysubstitutor.handlers.markdown_handler import MarkdownHandler
+from pysubstitutor.handlers.plist_handler import PlistHandler
+from pysubstitutor.utils.handler_selector import get_handler_by_extension
 
 
 def test_get_handler_by_extension_read():

@@ -1,7 +1,9 @@
 import logging
 from typing import List
-from pysubstitutor.models.text_substitution import TextSubstitution
+
 from pysubstitutor.handlers.format_handler import FormatHandler
+from pysubstitutor.models.text_substitution import TextSubstitution
+
 from .converter_interface import ConverterInterface
 
 

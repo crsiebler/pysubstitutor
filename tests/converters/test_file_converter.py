@@ -1,8 +1,10 @@
-import pytest
 import tempfile
+
+import pytest
+
 from pysubstitutor.converters.file_converter import FileConverter
-from pysubstitutor.handlers.plist_handler import PlistHandler
 from pysubstitutor.handlers.gboard_handler import GboardHandler
+from pysubstitutor.handlers.plist_handler import PlistHandler
 from pysubstitutor.models.text_substitution import TextSubstitution
 
 

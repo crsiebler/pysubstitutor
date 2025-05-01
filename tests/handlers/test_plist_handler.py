@@ -1,4 +1,5 @@
 import io
+
 from pysubstitutor.handlers.plist_handler import PlistHandler
 from pysubstitutor.models.text_substitution import TextSubstitution
 

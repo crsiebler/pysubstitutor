@@ -5,5 +5,8 @@ channels:
 dependencies:
   - python=3.13
   - pip
+  - isort
+  - black
+  - pre-commit
   - pip:
       - -r requirements.txt

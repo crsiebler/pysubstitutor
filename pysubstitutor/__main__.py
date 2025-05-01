@@ -1,7 +1,8 @@
-import logging
 import argparse
-from pysubstitutor.utils.handler_selector import get_handler_by_extension
+import logging
+
 from pysubstitutor.converters.file_converter import FileConverter
+from pysubstitutor.utils.handler_selector import get_handler_by_extension
 
 
 def main():

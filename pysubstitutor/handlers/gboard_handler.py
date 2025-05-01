@@ -1,6 +1,8 @@
 import csv
 from typing import List
+
 from pysubstitutor.models.text_substitution import TextSubstitution
+
 from .format_handler import FormatHandler
 
 

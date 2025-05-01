@@ -1,7 +1,7 @@
-from pysubstitutor.handlers.plist_handler import PlistHandler
+from pysubstitutor.handlers.format_handler import FormatHandler
 from pysubstitutor.handlers.gboard_handler import GboardHandler
 from pysubstitutor.handlers.markdown_handler import MarkdownHandler
-from pysubstitutor.handlers.format_handler import FormatHandler
+from pysubstitutor.handlers.plist_handler import PlistHandler
 
 
 def get_handler_by_extension(file_path: str, mode: str = "read") -> FormatHandler:
