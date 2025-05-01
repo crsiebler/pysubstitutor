@@ -9,8 +9,14 @@ COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the application code into the container
-COPY pysubstitutor/ /app
+COPY pysubstitutor/ /app/pysubstitutor/
 COPY data/ /app/data/
+
+# Copy the tests into the container
+COPY tests/ /app/tests/
+
+# Set the PYTHONPATH environment variable
+ENV PYTHONPATH=/app
 
 # Set the default command to run the Python application
 CMD ["python", "-m", "pysubstitutor"]

@@ -9,18 +9,19 @@ class FormatHandler(ABC):
     """
 
     @abstractmethod
-    def read(self, file_path: str) -> List[TextSubstitution]:
+    def read(self, input_stream) -> List[TextSubstitution]:
         """
-        Reads data from a file and returns a list of TextSubstitution objects.
-        :param file_path: Path to the input file.
+        Reads data from a file-like input stream and returns a list of TextSubstitution objects.
+        :param input_stream: File-like object for the input data.
+        :return: A list of TextSubstitution objects.
         """
         pass
 
     @abstractmethod
-    def export(self, file_path: str, entries: List[TextSubstitution]):
+    def export(self, output_stream, entries: List[TextSubstitution]):
         """
-        Exports a list of TextSubstitution objects to a file.
-        :param file_path: Path to the output file.
+        Exports a list of TextSubstitution objects to a file-like output stream.
+        :param output_stream: File-like object for the output data.
         :param entries: List of TextSubstitution objects to export.
         """
         pass
