@@ -1,4 +1,5 @@
 import io
+
 from pysubstitutor.handlers.gboard_handler import GboardHandler
 from pysubstitutor.models.text_substitution import TextSubstitution
 

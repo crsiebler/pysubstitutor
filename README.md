@@ -16,6 +16,25 @@ This tool is particularly useful for managing and migrating text substitution di
 
 ### Installation
 
+#### Using Conda
+
+1. Create the conda environment:
+   ```bash
+   conda env create -f environment.yml
+   ```
+
+2. Activate the environment:
+   ```bash
+   conda activate pysubstitutor
+   ```
+
+3. Install pre-commit hooks:
+   ```bash
+   pre-commit install
+   ```
+
+#### Using Docker
+
 1. Build the Docker image:
    ```bash
    make build
@@ -28,7 +47,12 @@ This tool is particularly useful for managing and migrating text substitution di
 
 ### Testing
 
-Run the tests inside the Docker container:
+Run the tests inside the Conda environment:
+```bash
+pytest tests
+```
+
+Or, run the tests inside the Docker container:
 ```bash
 make test
 ```
@@ -45,7 +69,7 @@ Replace the `--input` and `--output` arguments in the `Makefile` if you need to 
 ### Examples
 
 | Shortcut | Phrase |
-| :--|:--|
+|:--|:--|
 | $40 | lucky&!candyxl&legendary,ultra beasts,mythical |
 | $act | interactable |
 | $adventure | 79,83,133,211,349,438,440,527,215,562,674,682,684,669,670,921,922 |

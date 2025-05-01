@@ -1,5 +1,5 @@
-import zipfile
 import logging
+import zipfile
 
 
 def zip_file(output_file: str, zip_path: str, logger: logging.Logger):

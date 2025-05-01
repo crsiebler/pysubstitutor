@@ -1,4 +1,5 @@
 import io
+
 from pysubstitutor.handlers.markdown_handler import MarkdownHandler
 from pysubstitutor.models.text_substitution import TextSubstitution
 
