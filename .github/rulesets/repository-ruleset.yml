@@ -1,0 +1,41 @@
+name: Repository Ruleset
+
+rules:
+  - name: Protect main branch
+    conditions:
+      ref_name:
+        include:
+          - main
+    actions:
+      - type: require_pull_request
+        require_code_owner_review: false  # Disable code owner review
+        required_approving_review_count: 0  # No reviews required
+        required_status_checks:  # Add required status checks
+          - Run Tests
+          - Linting Check
+      - type: restrict_pushes
+        actor:
+          include:
+            - admins
+      - type: enforce_merge_strategy
+        merge_strategy: squash  # Force squash merges
+
+  - name: Require signed tags
+    conditions:
+      ref_type:
+        include:
+          - tag
+    actions:
+      - type: require_signed_commits
+
+  - name: Enforce workflow permissions
+    conditions:
+      ref_type:
+        include:
+          - branch
+    actions:
+      - type: restrict_workflows
+        actor:
+          include:
+            - admins
+            - dependabot[bot]
