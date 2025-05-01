@@ -1,8 +1,7 @@
-import argparse
 import logging
-import zipfile
-from pysubstitutor.plist_to_gboard import AppleToGboardConverter
-from pysubstitutor.zip_util import zip_file
+import argparse
+from pysubstitutor.utils.handler_selector import get_handler_by_extension
+from pysubstitutor.converters.file_converter import FileConverter
 
 
 def main():
@@ -12,6 +11,7 @@ def main():
     )
     logger = logging.getLogger(__name__)
 
+    # Parse arguments
     parser = argparse.ArgumentParser(description="Convert text substitutions files.")
     parser.add_argument(
         "-i", "--input", type=str, required=True, help="Path to the input file."
@@ -20,36 +20,25 @@ def main():
         "-o", "--output", type=str, required=True, help="Path to the output file."
     )
     parser.add_argument(
-        "-v", "--verbose", action="store_true", help="Enable verbose logging."
+        "--zip", type=str, required=False, help="Path to the zip file to create."
     )
-    parser.add_argument(
-        "--zip",
-        type=str,
-        required=False,
-        help="Path to the zip file to create after exporting the output file.",
-    )
-
     args = parser.parse_args()
 
-    # Set logging level based on verbose argument
-    if args.verbose:
-        logger.setLevel(logging.DEBUG)
-    else:
-        logger.setLevel(logging.ERROR)
+    # Dynamically select handlers
+    read_handler = get_handler_by_extension(args.input, mode="read")
+    export_handler = get_handler_by_extension(args.output, mode="export")
 
-    logger.info(
-        f"Starting conversion: Input file: {args.input}, Output file: {args.output}"
+    # Initialize and run the converter
+    converter = FileConverter(
+        read_handler=read_handler, export_handler=export_handler, logger=logger
     )
-
-    # Use the AppleToGboardConverter
-    converter = AppleToGboardConverter(logger=logger)
     converter.read_file(args.input)
     converter.export_file(args.output)
 
-    logger.info("Conversion completed successfully.")
-
-    # Zip the output file if the --zip argument is provided
+    # Optionally zip the output
     if args.zip:
+        from pysubstitutor.utils.zip_util import zip_file
+
         zip_file(args.output, args.zip, logger)
 
 

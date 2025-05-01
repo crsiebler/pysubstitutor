@@ -15,7 +15,7 @@ help:
 	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor python -m pysubstitutor -h
 
 run:
-	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor python -m pysubstitutor --input=data/input/text_substitutions.plist --output=data/output/dictionary.txt --zip=data/output/PersonalDictionary.zip
+	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor python -m pysubstitutor --input=data/input/text_substitutions.plist --output=data/output/table.md --zip=data/output/PersonalDictionary.zip
 
 test:
 	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor pytest
