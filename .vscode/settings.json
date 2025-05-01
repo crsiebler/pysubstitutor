@@ -6,8 +6,8 @@
         "PYTHONPATH"
     ],
     "editor.codeActionsOnSave": {
-        "source.organizeImports": true, // Automatically sort imports
-        "source.fixAll": true          // Automatically fix linting issues
+        "source.organizeImports": "explicit",
+        "source.fixAll": "explicit"
     },
     "python.linting.enabled": false,       // Disable linting
     "python.formatting.provider": "black", // Use Black for code formatting

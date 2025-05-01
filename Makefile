@@ -1,3 +1,6 @@
+clean:
+	rm -rf build dist *.egg-info .pytest_cache .coverage htmlcov
+
 build:
 	docker build -t pysubstitutor .
 
@@ -10,6 +13,10 @@ coverage-report:
 coverage-html:
 	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor coverage html
 	open htmlcov/index.html
+
+deploy:
+	python3 -m build
+	python3 -m twine upload dist/*
 
 help:
 	docker run -it --rm --name pysubstitutor -v ${PWD}:/usr/src/app -w /usr/src/app pysubstitutor python -m pysubstitutor -h
