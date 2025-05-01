@@ -1,0 +1,45 @@
+{
+    "bypass_actors": [
+        {
+            "actor_id": 5,
+            "actor_type": "RepositoryRole",
+            "bypass_mode": "always"
+        }
+    ],
+    "conditions": {
+        "ref_name": {
+            "exclude": [],
+            "include": [
+                "refs/heads/main"
+            ]
+        }
+    },
+    "enforcement": "active",
+    "name": "Branch Protection Ruleset",
+    "rules": [
+        {
+            "type": "creation"
+        },
+        {
+            "type": "deletion"
+        },
+        {
+            "type": "non_fast_forward"
+        },
+        {
+            "parameters": {
+                "allowed_merge_methods": [
+                    "squash"
+                ],
+                "automatic_copilot_code_review_enabled": true,
+                "dismiss_stale_reviews_on_push": true,
+                "require_code_owner_review": false,
+                "require_last_push_approval": false,
+                "required_approving_review_count": 0,
+                "required_review_thread_resolution": true
+            },
+            "type": "pull_request"
+        }
+    ],
+    "target": "branch"
+}
