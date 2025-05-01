@@ -3,11 +3,15 @@ import os
 from pathlib import Path
 
 import requests
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Load the GitHub token from the environment
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO_OWNER = "crsiebler"
-REPO_NAME = "pysubstitutor"
+REPO_OWNER = os.getenv("REPO_OWNER", "crsiebler")
+REPO_NAME = os.getenv("REPO_NAME", "pysubstitutor")
 BASE_API_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/rulesets"
 RULESETS_DIR = Path(".github/rulesets")
 
