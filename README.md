@@ -1,5 +1,14 @@
 ### Pysubstitutor
 
+[![MIT License](https://img.shields.io/github/license/crsiebler/pysubstitutor)](https://github.com/crsiebler/pysubstitutor/blob/main/LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/pysubstitutor)](https://pypi.org/project/pysubstitutor/)
+[![Build Status](https://github.com/crsiebler/pysubstitutor/actions/workflows/test.yml/badge.svg)](https://github.com/crsiebler/pysubstitutor/actions)
+[![Python Versions](https://img.shields.io/pypi/pyversions/pysubstitutor)](https://pypi.org/project/pysubstitutor/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/crsiebler/pysubstitutor.svg?style=flat)](https://github.com/crsiebler/pysubstitutor/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/crsiebler/pysubstitutor)](https://github.com/crsiebler/pysubstitutor/issues)
+[![GitHub stars](https://img.shields.io/github/stars/crsiebler/pysubstitutor)](https://github.com/crsiebler/pysubstitutor/stargazers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CorySiebler.svg?style=social)](https://twitter.com/CorySiebler)
+
 # Description
 
 `pysubstitutor` is a Python package designed to convert text substitution files between different formats. It supports reading and exporting text substitutions in formats such as Apple `.plist`, Gboard `.gboard`, and Markdown `.md`. The package is modular, extensible, and includes utilities for handling file conversions and zipping output files.
@@ -65,3 +74,10 @@ make run
 ```
 
 Replace the `--input` and `--output` arguments in the `Makefile` if you need to customize the input and output file paths.
+
+### Coverage Report
+
+The test workflow generates a coverage report, which can be downloaded as an artifact from the GitHub Actions page. To view the report locally:
+
+1. Download the `coverage-report` artifact from the workflow run.
+2. Extract the artifact and open `htmlcov/index.html` in your browser.
