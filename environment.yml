@@ -8,6 +8,7 @@ dependencies:
   - isort
   - black
   - pre-commit
+  - python-dotenv
   - pip:
       - setuptools
       - wheel
