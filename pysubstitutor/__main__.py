@@ -6,12 +6,13 @@ from pysubstitutor.utils.handler_selector import get_handler_by_extension
 
 
 def main():
-    print("Welcome to Text Substitutions!")
     # Initialize logger
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
     )
     logger = logging.getLogger(__name__)
+
+    logger.info("Welcome to Text Substitutions!")
 
     # Parse arguments
     parser = argparse.ArgumentParser(description="Convert text substitutions files.")
