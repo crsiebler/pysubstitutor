@@ -6,6 +6,7 @@ from pysubstitutor.utils.handler_selector import get_handler_by_extension
 
 
 def main():
+    print("Welcome to Text Substitutions!")
     # Initialize logger
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"

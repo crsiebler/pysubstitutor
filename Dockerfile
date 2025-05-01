@@ -19,4 +19,4 @@ COPY tests/ /app/tests/
 ENV PYTHONPATH=/app
 
 # Set the default command to run the Python application
-CMD ["python", "-m", "pysubstitutor"]
+CMD ["python", "-m", "pysubstitutor"]  # Updated package name
