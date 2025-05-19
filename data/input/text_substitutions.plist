@@ -94,6 +94,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>trade&amp;evolve&amp;+snivy,+slakoth,combee,litleo,piplup,slowpoke</string>
+		<key>shortcut</key>
+		<string>$crownedcollection</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>hoopa,yveltal,+tyranitar,+hydreigon,darkrai,moltres,+incineroar,+weavile,+meowscarada,guzzlord</string>
 		<key>shortcut</key>
 		<string>$dark</string>
