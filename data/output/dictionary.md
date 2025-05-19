@@ -15,6 +15,7 @@
 | $catch | great&cp-1500&age-84 |
 | $catchlittle | little&cp-500&age-84 |
 | $color | great&cp-1500&fire,water,grass,electric |
+| $crownedcollection | trade&evolve&+snivy,+slakoth,combee,litleo,piplup,slowpoke |
 | $dark | hoopa,yveltal,+tyranitar,+hydreigon,darkrai,moltres,+incineroar,+weavile,+meowscarada,guzzlord |
 | $distant | trade&!distant&!distance100 |
 | $dmax | dynamax,gigantamax |
