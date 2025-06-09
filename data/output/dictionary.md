@@ -22,6 +22,7 @@
 | $dragon | palkia,dialga,+salamence,rayquaza,+haxorus,+dragonite,+garchomp,reshiram,zekrom,+dragapult |
 | $effect | favorite&adventureeffect |
 | $electric | xurkitree,zekrom,+magnezone,thundurus,raikou,+luxray,+electivire,zapdos,+pawmot,+vikavolt |
+| $elementlittle | little&cp-500&1,4,7,37,43,46,54,58,60,69,72,77,79,86,90,98,100,102,114,116,118,120,129,131,138,140,152,155,158,170,183,187,191,194,211,218,222,223,228,240,252,255,258,270,273,278,283,285,320,322,324,331,339,341,345,349,351,357,363,366,369,370,387,390,393,406,418,420,422,455,456,458,459,495,498,501,511,513,515,535,540,546,548,550,554,556,564,580,585,590,592,594,597,607,631,636,650,653,656,667,672,688,690,692,708,710,722,725,728,741,747,751,753,755,757,761,767,776,779,810,813,816,829,850,906,909,912,928,935,960 |
 | $fairy | tapu lele,zacian,tapu bulu,tapu koko,enamorus,xerneas,tapu fini,+togekiss,+gardevoir,+sylveon |
 | $fantasy | great&cp-1500&steel,fairy,dragon |
 | $fighting | keldeo,terrakion,zamazenta,+decidueye,pheromosa,+lucario,virizion,cobalion,hawlucha,+conkeldurr |
@@ -42,6 +43,7 @@
 | $ground | groudon,landorus,+garchomp,+ursaluna,zygarde,+mamoswine,+rhyperior,+swampert,+golem,+hippowdon |
 | $halloween | great&cp-1500&poison,ghost,dark,bug,fairy |
 | $halloweenlittle | little&cp-500&poison,ghost,dark,bug,fairy |
+| $hisui | great&cp-1500&387-493 |
 | $hlegend | trade&!distant&legendary,ultra beasts |
 | $holidaylittle | little&cp-500&normal,grass,electric,flying,ghost,ice |
 | $ice | kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. Rime, articuno,+avalugg |
@@ -85,6 +87,7 @@
 | $spring | great&cp-1500&!jumpluff&!roserade&!toxapex&water,grass,fairy |
 | $steel | necrozma,dialga,+melmetal,jirachi,+excadrill,+metagross,genesect,+magnezone,heatran,+empoleon |
 | $summer | great&cp-1500&normal,fire,water,grass,electric,bug |
+| $summerultra | ultra&cp-2500&normal,fire,water,grass,electric,bug |
 | $sunshine | great&cp-1500&!charizard&normal,fire,grass,ground |
 | $top | 1-3,7-9,27-28,29-31,35-36,37-38,39-40,56-57,60-62,66-68,72-73,86-87,92-94,95,104-105,108,109-110,129-130,133,145,146,147-149,152-154,158-160,170-171,173,174,175-176,183-184,186,187-189,194-195,197,206,208,211,215,216-217,231-232,241,258-260,280-281,298,302,328-330,339-340,351,355-356,363-365,377,378,379,396-398,410-411,422-423,425-426,434-435,449-450,451-452,459-460,463,475,477,487,488,495-497,501-503,546-547,562-563,597-598,618,622-623,629-630,633-635,638,640,646,650-652,656-658,659-660,661-663,669-671,672-673,674-675,690-691,698-699,703,704-706,708-709,718,722-724,725-727,747-748,753-754,757-758,765,776,777,782-784,788,799,867,903,904,909-911,919-920,980,996-998 |
 | $tradeevolve | traded&63,64,66,67,74,75,92,93,524,525,532,533,588,616,708,710 |
