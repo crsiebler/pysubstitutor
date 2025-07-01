@@ -3,9 +3,10 @@
 | $40 | lucky&!candyxl&legendary,ultra beasts,mythical |
 | $act | interactable |
 | $adventure | 79,83,133,211,349,438,440,527,215,562,674,682,684,669,670,921,922 |
-| $alegend | trade&distant&legendary,ultra beasts |
+| $alegend | trade&distant&!background&legendary,ultra beasts |
 | $almost | 4attack&3-4defense&3-4hp&!almost |
 | $beasts | trade&ultra beasts |
+| $blegend | trade&background&legendary,ultra beasts |
 | $btlatk | !bottlecap&!pvp&!shadow&0-3attack&4defense&4hp&shiny,costume,legendary,mythical,ultra beasts |
 | $btldef | !bottlecap&!pvp&!shadow&4attack&0-3defense&4hp&shiny,costume,legendary,mythical,ultra beasts |
 | $btlhp | !bottlecap&!pvp&!shadow&4attack&4defense&0-3hp&shiny,costume,legendary,mythical,ultra beasts |
@@ -39,12 +40,13 @@
 | $glbuilt | great&!@3move |
 | $glmeta | +abomasnow,+altaria,+amoonguss,+annihilape,+araquanid,+arctibax,+ariados,+armarouge,+aurorus,+avalugg,+azumarill,+bastiodon,+blastoise,bombirdier,+bronzong,+carbink,castform,+cetitan,+charjabug,+chesnaught,+claydol,+clefable,+clodsire,+cofagrigus,corsola,+corviknight,+cradily,cresselia,+dachsbun,dedenne,+dewgong,+diggersby,+donphan,+dragalge,+dragonite,+drapion,+drifblim,dunsparce,+dusclops,+dusknoir,+electivire,+electrode,emolga,+feraligatr,+ferrothorn,+florges,+forretress,+froslass,+furret,+gallade,+gastrodon,+gengar,giratina,+gliscor,+gogoat,+golisopod,+golurk,+goodra,+greninja,+grimer,+grumpig,guzzlord,+hippowdon,+jellicent,+jumpluff,+klefki,+kommo-o,+lanturn,lapras,+leavanny,+lickilicky,+lokix,+lurantis,+machamp,+magcargo,+magnezone,+malamar,+mandibuzz,+marowak,+medicham,+meganium,+melmetal,mew,+mightyena,moltres,morpeko,+ninetales,oranguru,+overqwil,pachirisu,+pangoro,+piloswine,+quagsire,+qwilfish,+raichu,regirock,registeel,+roserade,+runerigus,sableye,+samurott,+sandslash,+serperior,skarmory,+skeledirge,+skuntank,spiritomb,+steelix,stunfisk,suicune,+swalot,+swampert,+talonflame,+thievul,+tinkaton,togedemaru,+togetic,+toxapex,+trevenant,tropius,+typhlosion,+umbreon,+ursaring,+venusaur,+wailmer,+walrein,+weezing,+whimsicott,+whiscash,+wigglytuff,+zapdos,+zweilous |
 | $glpower | great&build |
+| $gofestmoves | evolve&+skeledirge,+chesnaught,+primarina,+empoleon,+machamp,+sandslash,+clefable,+talonflame,+tyranitar |
 | $grass | zarude,+meowscarada,+decidueye,kartana,shaymin,+chesnaught,+tangrowth,+venusaur,+lurantis,tapu bulu |
 | $ground | groudon,landorus,+garchomp,+ursaluna,zygarde,+mamoswine,+rhyperior,+swampert,+golem,+hippowdon |
 | $halloween | great&cp-1500&poison,ghost,dark,bug,fairy |
 | $halloweenlittle | little&cp-500&poison,ghost,dark,bug,fairy |
 | $hisui | great&cp-1500&387-493 |
-| $hlegend | trade&!distant&legendary,ultra beasts |
+| $hlegend | trade&!distant&!background&legendary,ultra beasts |
 | $holidaylittle | little&cp-500&normal,grass,electric,flying,ghost,ice |
 | $ice | kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. Rime, articuno,+avalugg |
 | $junglelittle | little&cp-500&!smeargle&!shuckle&!gligar&!stunfisk&normal,grass,electric,poison,ground,flying,bug,dark |
@@ -82,7 +84,6 @@
 | $scroll | great&cp-1500&!primarina&water,fighting,dark |
 | $send | !lucky&giftable |
 | $shiny | trade&shiny |
-| $shinylegend | trade&shiny&legendary,ultra beasts,+meltan |
 | $slegend | trade&shiny&legendary,ultra beasts,+meltan |
 | $spring | great&cp-1500&!jumpluff&!roserade&!toxapex&water,grass,fairy |
 | $steel | necrozma,dialga,+melmetal,jirachi,+excadrill,+metagross,genesect,+magnezone,heatran,+empoleon |
