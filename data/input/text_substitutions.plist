@@ -22,7 +22,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>trade&amp;distant&amp;legendary,ultra beasts</string>
+		<string>trade&amp;distant&amp;!background&amp;legendary,ultra beasts</string>
 		<key>shortcut</key>
 		<string>$alegend</string>
 	</dict>
@@ -37,6 +37,12 @@
 		<string>trade&amp;ultra beasts</string>
 		<key>shortcut</key>
 		<string>$beasts</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>trade&amp;background&amp;legendary,ultra beasts</string>
+		<key>shortcut</key>
+		<string>$blegend</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -238,6 +244,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>evolve&amp;+skeledirge,+chesnaught,+primarina,+empoleon,+machamp,+sandslash,+clefable,+talonflame,+tyranitar</string>
+		<key>shortcut</key>
+		<string>$gofestmoves</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>zarude,+meowscarada,+decidueye,kartana,shaymin,+chesnaught,+tangrowth,+venusaur,+lurantis,tapu bulu</string>
 		<key>shortcut</key>
 		<string>$grass</string>
@@ -268,7 +280,7 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
-		<string>trade&amp;!distant&amp;legendary,ultra beasts</string>
+		<string>trade&amp;!distant&amp;!background&amp;legendary,ultra beasts</string>
 		<key>shortcut</key>
 		<string>$hlegend</string>
 	</dict>
@@ -493,12 +505,6 @@
 		<string>trade&amp;shiny</string>
 		<key>shortcut</key>
 		<string>$shiny</string>
-	</dict>
-	<dict>
-		<key>phrase</key>
-		<string>trade&amp;shiny&amp;legendary,ultra beasts,+meltan</string>
-		<key>shortcut</key>
-		<string>$shinylegend</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

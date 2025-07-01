@@ -3,9 +3,10 @@
 $40	lucky&!candyxl&legendary,ultra beasts,mythical	en-US
 $act	interactable	en-US
 $adventure	79,83,133,211,349,438,440,527,215,562,674,682,684,669,670,921,922	en-US
-$alegend	trade&distant&legendary,ultra beasts	en-US
+$alegend	trade&distant&!background&legendary,ultra beasts	en-US
 $almost	4attack&3-4defense&3-4hp&!almost	en-US
 $beasts	trade&ultra beasts	en-US
+$blegend	trade&background&legendary,ultra beasts	en-US
 $btlatk	!bottlecap&!pvp&!shadow&0-3attack&4defense&4hp&shiny,costume,legendary,mythical,ultra beasts	en-US
 $btldef	!bottlecap&!pvp&!shadow&4attack&0-3defense&4hp&shiny,costume,legendary,mythical,ultra beasts	en-US
 $btlhp	!bottlecap&!pvp&!shadow&4attack&4defense&0-3hp&shiny,costume,legendary,mythical,ultra beasts	en-US
@@ -39,12 +40,13 @@ $glbuild	pvp&great&!build&@3move,cp-1300	en-US
 $glbuilt	great&!@3move	en-US
 $glmeta	+abomasnow,+altaria,+amoonguss,+annihilape,+araquanid,+arctibax,+ariados,+armarouge,+aurorus,+avalugg,+azumarill,+bastiodon,+blastoise,bombirdier,+bronzong,+carbink,castform,+cetitan,+charjabug,+chesnaught,+claydol,+clefable,+clodsire,+cofagrigus,corsola,+corviknight,+cradily,cresselia,+dachsbun,dedenne,+dewgong,+diggersby,+donphan,+dragalge,+dragonite,+drapion,+drifblim,dunsparce,+dusclops,+dusknoir,+electivire,+electrode,emolga,+feraligatr,+ferrothorn,+florges,+forretress,+froslass,+furret,+gallade,+gastrodon,+gengar,giratina,+gliscor,+gogoat,+golisopod,+golurk,+goodra,+greninja,+grimer,+grumpig,guzzlord,+hippowdon,+jellicent,+jumpluff,+klefki,+kommo-o,+lanturn,lapras,+leavanny,+lickilicky,+lokix,+lurantis,+machamp,+magcargo,+magnezone,+malamar,+mandibuzz,+marowak,+medicham,+meganium,+melmetal,mew,+mightyena,moltres,morpeko,+ninetales,oranguru,+overqwil,pachirisu,+pangoro,+piloswine,+quagsire,+qwilfish,+raichu,regirock,registeel,+roserade,+runerigus,sableye,+samurott,+sandslash,+serperior,skarmory,+skeledirge,+skuntank,spiritomb,+steelix,stunfisk,suicune,+swalot,+swampert,+talonflame,+thievul,+tinkaton,togedemaru,+togetic,+toxapex,+trevenant,tropius,+typhlosion,+umbreon,+ursaring,+venusaur,+wailmer,+walrein,+weezing,+whimsicott,+whiscash,+wigglytuff,+zapdos,+zweilous	en-US
 $glpower	great&build	en-US
+$gofestmoves	evolve&+skeledirge,+chesnaught,+primarina,+empoleon,+machamp,+sandslash,+clefable,+talonflame,+tyranitar	en-US
 $grass	zarude,+meowscarada,+decidueye,kartana,shaymin,+chesnaught,+tangrowth,+venusaur,+lurantis,tapu bulu	en-US
 $ground	groudon,landorus,+garchomp,+ursaluna,zygarde,+mamoswine,+rhyperior,+swampert,+golem,+hippowdon	en-US
 $halloween	great&cp-1500&poison,ghost,dark,bug,fairy	en-US
 $halloweenlittle	little&cp-500&poison,ghost,dark,bug,fairy	en-US
 $hisui	great&cp-1500&387-493	en-US
-$hlegend	trade&!distant&legendary,ultra beasts	en-US
+$hlegend	trade&!distant&!background&legendary,ultra beasts	en-US
 $holidaylittle	little&cp-500&normal,grass,electric,flying,ghost,ice	en-US
 $ice	kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. Rime, articuno,+avalugg	en-US
 $junglelittle	little&cp-500&!smeargle&!shuckle&!gligar&!stunfisk&normal,grass,electric,poison,ground,flying,bug,dark	en-US
@@ -82,7 +84,6 @@ $scan	pvp&!ⓛ&!Ⓖ&!Ⓤ&!4*	en-US
 $scroll	great&cp-1500&!primarina&water,fighting,dark	en-US
 $send	!lucky&giftable	en-US
 $shiny	trade&shiny	en-US
-$shinylegend	trade&shiny&legendary,ultra beasts,+meltan	en-US
 $slegend	trade&shiny&legendary,ultra beasts,+meltan	en-US
 $spring	great&cp-1500&!jumpluff&!roserade&!toxapex&water,grass,fairy	en-US
 $steel	necrozma,dialga,+melmetal,jirachi,+excadrill,+metagross,genesect,+magnezone,heatran,+empoleon	en-US
