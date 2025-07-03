@@ -80,6 +80,7 @@
 | $review | favorite&!pvp&!4*&!shiny&!zero&!legendary&!mythical&!ultra beasts |
 | $rlegend | trade&research&legendary,ultra beasts |
 | $rock | +rampardos,+rhyperior,terrakion,nihilego,+gigalith,+tyranitar,+aggron,+kleavor,+arcanine,+kabutops |
+| $sbg | shiny&background |
 | $scan | pvp&!ⓛ&!Ⓖ&!Ⓤ&!4* |
 | $scroll | great&cp-1500&!primarina&water,fighting,dark |
 | $send | !lucky&giftable |

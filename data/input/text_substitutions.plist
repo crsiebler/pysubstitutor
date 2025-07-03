@@ -484,6 +484,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>shiny&amp;background</string>
+		<key>shortcut</key>
+		<string>$sbg</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>pvp&amp;!ⓛ&amp;!Ⓖ&amp;!Ⓤ&amp;!4*</string>
 		<key>shortcut</key>
 		<string>$scan</string>
