@@ -80,6 +80,7 @@ $retro	great&cp-1500&!dark&!steel&!fairy	en-US
 $review	favorite&!pvp&!4*&!shiny&!zero&!legendary&!mythical&!ultra beasts	en-US
 $rlegend	trade&research&legendary,ultra beasts	en-US
 $rock	+rampardos,+rhyperior,terrakion,nihilego,+gigalith,+tyranitar,+aggron,+kleavor,+arcanine,+kabutops	en-US
+$sbg	shiny&background	en-US
 $scan	pvp&!ⓛ&!Ⓖ&!Ⓤ&!4*	en-US
 $scroll	great&cp-1500&!primarina&water,fighting,dark	en-US
 $send	!lucky&giftable	en-US
