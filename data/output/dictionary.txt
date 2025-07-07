@@ -21,6 +21,7 @@ $dark	hoopa,yveltal,+tyranitar,+hydreigon,darkrai,moltres,+incineroar,+weavile,+
 $distant	trade&!distant&!distance100	en-US
 $dmax	dynamax,gigantamax	en-US
 $dragon	palkia,dialga,+salamence,rayquaza,+haxorus,+dragonite,+garchomp,reshiram,zekrom,+dragapult	en-US
+$eevee	eevee&4*,pvp	en-US
 $effect	favorite&adventureeffect	en-US
 $electric	xurkitree,zekrom,+magnezone,thundurus,raikou,+luxray,+electivire,zapdos,+pawmot,+vikavolt	en-US
 $elementlittle	little&cp-500&1,4,7,37,43,46,54,58,60,69,72,77,79,86,90,98,100,102,114,116,118,120,129,131,138,140,152,155,158,170,187,191,194,211,218,222,223,228,240,252,255,258,270,273,278,283,285,320,322,324,331,339,341,345,349,351,357,363,366,369,370,387,390,393,406,418,420,422,455,456,458,459,495,498,501,511,513,515,535,540,546,548,550,554,556,564,580,585,590,592,594,597,607,631,636,650,653,656,667,672,688,690,692,708,710,722,725,728,741,747,751,753,755,757,761,767,776,779,810,813,816,829,850,906,909,912,928,935,960	en-US
@@ -55,6 +56,7 @@ $llbuild	pvp&little&!build&@3move,cp-490	en-US
 $llegend	lucky&legendary,ultra beasts	en-US
 $love	great&cp-1500&+Accelgor,Alomomola,+Ariados,+Armarouge,+Aromatisse,Audino,+Bewear,+Bisharp,+Blaziken,+Blissey,+Braviary,Bruxish,Buzzwole,+Camerupt,Castform,+Charizard,Cherrim,+Clefable,Corsola,+Crawdaunt,+Crustle,+Darmanitan,+Deerling,+Delphox,Druddigon,+Dwebble,+Electrode,+Emboar,+Exeggcute,+Flaaffy,Flareon,+Goldeen,+Gorebyss,+Hatterene,+Heatmor,+Incineroar,+Jynx,+Kingler,+Kricketune,+Krookodile,Latias,+Ledian,+Lickilicky,+Lurantis,+Lycanroc,+Magcargo,+Magmortar,+Medicham,+Mesprit,+Milotic,Miltank,+Mr. Mime,+Musharna,+Octillery,+Oricorio,+Parasect,+Porygon,Rotom,+Scizor,+Scolipede,+Scrafty,+Seaking,+Simisear,+Skeledirge,+Slowpoke,Snubbull,Solrock,Sylveon,+Talonflame,Throh,Turtonator,+Tyrantrum,+Vileplume,+Vivillon,+Wigglytuff,+Wormadam,+Wugtrio,+Yanma	en-US
 $lucky	interactable&friendlevel4&!lucky	en-US
+$lundo	4*&lucky	en-US
 $lureevolve	81,82,133,299,704,705,739	en-US
 $max	4*&!maxed&power	en-US
 $mega	megaevolve&mega1-2	en-US
@@ -84,7 +86,9 @@ $sbg	shiny&background	en-US
 $scan	pvp&!ⓛ&!Ⓖ&!Ⓤ&!4*	en-US
 $scroll	great&cp-1500&!primarina&water,fighting,dark	en-US
 $send	!lucky&giftable	en-US
+$shahundo	4*&shadow	en-US
 $shiny	trade&shiny	en-US
+$shundo	4*&shiny	en-US
 $slegend	trade&shiny&legendary,ultra beasts,+meltan	en-US
 $spring	great&cp-1500&!jumpluff&!roserade&!toxapex&water,grass,fairy	en-US
 $steel	necrozma,dialga,+melmetal,jirachi,+excadrill,+metagross,genesect,+magnezone,heatran,+empoleon	en-US

@@ -130,6 +130,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>eevee&amp;4*,pvp</string>
+		<key>shortcut</key>
+		<string>$eevee</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>favorite&amp;adventureeffect</string>
 		<key>shortcut</key>
 		<string>$effect</string>
@@ -334,6 +340,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>4*&amp;lucky</string>
+		<key>shortcut</key>
+		<string>$lundo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>81,82,133,299,704,705,739</string>
 		<key>shortcut</key>
 		<string>$lureevolve</string>
@@ -508,9 +520,21 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>4*&amp;shadow</string>
+		<key>shortcut</key>
+		<string>$shahundo</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>trade&amp;shiny</string>
 		<key>shortcut</key>
 		<string>$shiny</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>4*&amp;shiny</string>
+		<key>shortcut</key>
+		<string>$shundo</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

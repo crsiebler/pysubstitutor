@@ -21,6 +21,7 @@
 | $distant | trade&!distant&!distance100 |
 | $dmax | dynamax,gigantamax |
 | $dragon | palkia,dialga,+salamence,rayquaza,+haxorus,+dragonite,+garchomp,reshiram,zekrom,+dragapult |
+| $eevee | eevee&4*,pvp |
 | $effect | favorite&adventureeffect |
 | $electric | xurkitree,zekrom,+magnezone,thundurus,raikou,+luxray,+electivire,zapdos,+pawmot,+vikavolt |
 | $elementlittle | little&cp-500&1,4,7,37,43,46,54,58,60,69,72,77,79,86,90,98,100,102,114,116,118,120,129,131,138,140,152,155,158,170,187,191,194,211,218,222,223,228,240,252,255,258,270,273,278,283,285,320,322,324,331,339,341,345,349,351,357,363,366,369,370,387,390,393,406,418,420,422,455,456,458,459,495,498,501,511,513,515,535,540,546,548,550,554,556,564,580,585,590,592,594,597,607,631,636,650,653,656,667,672,688,690,692,708,710,722,725,728,741,747,751,753,755,757,761,767,776,779,810,813,816,829,850,906,909,912,928,935,960 |
@@ -55,6 +56,7 @@
 | $llegend | lucky&legendary,ultra beasts |
 | $love | great&cp-1500&+Accelgor,Alomomola,+Ariados,+Armarouge,+Aromatisse,Audino,+Bewear,+Bisharp,+Blaziken,+Blissey,+Braviary,Bruxish,Buzzwole,+Camerupt,Castform,+Charizard,Cherrim,+Clefable,Corsola,+Crawdaunt,+Crustle,+Darmanitan,+Deerling,+Delphox,Druddigon,+Dwebble,+Electrode,+Emboar,+Exeggcute,+Flaaffy,Flareon,+Goldeen,+Gorebyss,+Hatterene,+Heatmor,+Incineroar,+Jynx,+Kingler,+Kricketune,+Krookodile,Latias,+Ledian,+Lickilicky,+Lurantis,+Lycanroc,+Magcargo,+Magmortar,+Medicham,+Mesprit,+Milotic,Miltank,+Mr. Mime,+Musharna,+Octillery,+Oricorio,+Parasect,+Porygon,Rotom,+Scizor,+Scolipede,+Scrafty,+Seaking,+Simisear,+Skeledirge,+Slowpoke,Snubbull,Solrock,Sylveon,+Talonflame,Throh,Turtonator,+Tyrantrum,+Vileplume,+Vivillon,+Wigglytuff,+Wormadam,+Wugtrio,+Yanma |
 | $lucky | interactable&friendlevel4&!lucky |
+| $lundo | 4*&lucky |
 | $lureevolve | 81,82,133,299,704,705,739 |
 | $max | 4*&!maxed&power |
 | $mega | megaevolve&mega1-2 |
@@ -84,7 +86,9 @@
 | $scan | pvp&!ⓛ&!Ⓖ&!Ⓤ&!4* |
 | $scroll | great&cp-1500&!primarina&water,fighting,dark |
 | $send | !lucky&giftable |
+| $shahundo | 4*&shadow |
 | $shiny | trade&shiny |
+| $shundo | 4*&shiny |
 | $slegend | trade&shiny&legendary,ultra beasts,+meltan |
 | $spring | great&cp-1500&!jumpluff&!roserade&!toxapex&water,grass,fairy |
 | $steel | necrozma,dialga,+melmetal,jirachi,+excadrill,+metagross,genesect,+magnezone,heatran,+empoleon |
