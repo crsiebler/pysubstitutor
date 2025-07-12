@@ -46,7 +46,7 @@ $grass	zarude,+meowscarada,+decidueye,kartana,shaymin,+chesnaught,+tangrowth,+ve
 $ground	groudon,landorus,+garchomp,+ursaluna,zygarde,+mamoswine,+rhyperior,+swampert,+golem,+hippowdon	en-US
 $halloween	great&cp-1500&poison,ghost,dark,bug,fairy	en-US
 $halloweenlittle	little&cp-500&poison,ghost,dark,bug,fairy	en-US
-$hisui	great&cp-1500&387-493	en-US
+$hisui	great&cp-1500&387-493,570-571	en-US
 $hlegend	trade&!distant&!background&legendary,ultra beasts	en-US
 $holidaylittle	little&cp-500&normal,grass,electric,flying,ghost,ice	en-US
 $ice	kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. Rime, articuno,+avalugg	en-US

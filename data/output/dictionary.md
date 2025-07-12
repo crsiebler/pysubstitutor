@@ -46,7 +46,7 @@
 | $ground | groudon,landorus,+garchomp,+ursaluna,zygarde,+mamoswine,+rhyperior,+swampert,+golem,+hippowdon |
 | $halloween | great&cp-1500&poison,ghost,dark,bug,fairy |
 | $halloweenlittle | little&cp-500&poison,ghost,dark,bug,fairy |
-| $hisui | great&cp-1500&387-493 |
+| $hisui | great&cp-1500&387-493,570-571 |
 | $hlegend | trade&!distant&!background&legendary,ultra beasts |
 | $holidaylittle | little&cp-500&normal,grass,electric,flying,ghost,ice |
 | $ice | kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. Rime, articuno,+avalugg |
