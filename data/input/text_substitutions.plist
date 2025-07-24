@@ -406,6 +406,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>4*&amp;costume,background,shiny,legendary,ultra beasts,mythical</string>
+		<key>shortcut</key>
+		<string>$perfect</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>trade&amp;buzzwole,cobalion,cresselia,giratina,guzzlord,kartana,raikou,regice,regirock,registeel,suicune,tapu bulu,tapu fini,tapu lele,virizion,zapdos</string>
 		<key>shortcut</key>
 		<string>$plegend</string>
