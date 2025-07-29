@@ -118,6 +118,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>trade&amp;legendary&amp;dynamax,gigantamax</string>
+		<key>shortcut</key>
+		<string>$dlegend</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>dynamax,gigantamax</string>
 		<key>shortcut</key>
 		<string>$dmax</string>
@@ -577,6 +583,18 @@
 		<string>great&amp;cp-1500&amp;!charizard&amp;normal,fire,grass,ground</string>
 		<key>shortcut</key>
 		<string>$sunshine</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>trade&amp;dynamax</string>
+		<key>shortcut</key>
+		<string>$tdmax</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>trade&amp;gigantamax</string>
+		<key>shortcut</key>
+		<string>$tgmax</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
