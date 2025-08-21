@@ -51,14 +51,17 @@ $hisui	great&cp-1500&387-493,570-571	en-US
 $hlegend	trade&!distant&!background&legendary,ultra beasts	en-US
 $holidaylittle	little&cp-500&normal,grass,electric,flying,ghost,ice	en-US
 $ice	kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. Rime, articuno,+avalugg	en-US
+$ji	valert Jump in!	en-US
 $junglelittle	little&cp-500&!smeargle&!shuckle&!gligar&!stunfisk&normal,grass,electric,poison,ground,flying,bug,dark	en-US
 $legendary	trade&legendary,ultra beasts	en-US
 $llbuild	pvp&little&!build&@3move,cp-490	en-US
 $llegend	lucky&legendary,ultra beasts	en-US
+$lmax	lucky&dynamax,gigantamax	en-US
 $love	great&cp-1500&+Accelgor,Alomomola,+Ariados,+Armarouge,+Aromatisse,Audino,+Bewear,+Bisharp,+Blaziken,+Blissey,+Braviary,Bruxish,Buzzwole,+Camerupt,Castform,+Charizard,Cherrim,+Clefable,Corsola,+Crawdaunt,+Crustle,+Darmanitan,+Deerling,+Delphox,Druddigon,+Dwebble,+Electrode,+Emboar,+Exeggcute,+Flaaffy,Flareon,+Goldeen,+Gorebyss,+Hatterene,+Heatmor,+Incineroar,+Jynx,+Kingler,+Kricketune,+Krookodile,Latias,+Ledian,+Lickilicky,+Lurantis,+Lycanroc,+Magcargo,+Magmortar,+Medicham,+Mesprit,+Milotic,Miltank,+Mr. Mime,+Musharna,+Octillery,+Oricorio,+Parasect,+Porygon,Rotom,+Scizor,+Scolipede,+Scrafty,+Seaking,+Simisear,+Skeledirge,+Slowpoke,Snubbull,Solrock,Sylveon,+Talonflame,Throh,Turtonator,+Tyrantrum,+Vileplume,+Vivillon,+Wigglytuff,+Wormadam,+Wugtrio,+Yanma	en-US
 $lucky	interactable&friendlevel4&!lucky	en-US
 $lundo	4*&lucky	en-US
 $lureevolve	81,82,133,299,704,705,739	en-US
+$mankey	evolve&+mankey&4*,pvp	en-US
 $max	4*&!maxed&power	en-US
 $mega	megaevolve&mega1-2	en-US
 $megable	+venusaur,+charizard,+blastoise,+alakazam,+gengar,kangaskhan,pinsir,+gyarados,aerodactyl,mewtwo,+ampharos,+scizor,heracross,+houndoom,+tyranitar,+blaziken,+gardevoir,mawile,+aggron,+medicham,+manetric,+banette,absol,latias,latios,+garchomp,+lucario,+abomasnow,+beedrill,+pidgeot,+slowbro,+steelix,+sceptile,+swampert,sableye,+sharpedo,+camerupt,+altaria,+glalie,+salamence,+metagross,rayquaza,+lopunny,+gallade,audino,diancie,groudon,kyogre	en-US
@@ -67,9 +70,11 @@ $meta	1-3,4-6,7-9,13-15,16-18,19-20,27-28,29-31,35-36,37-38,39-40,41-42,43-44,50
 $mlbuilt	master&maxed&!@3move	en-US
 $mlmeta	+annihilape,+armarouge,articuno,+avalugg,+baxcalibur,+beartic,+bewear,blacephalon,buzzwole,+ceruledge,+cetitan,+chandelure,+charizard,+chesnaught,cobalion,+conkeldurr,+cresselia,+cursola,darkrai,+darmanitan,+decidueye,dhelmise,dialga,+donphan,+dragapult,+dragonite,+electivire,+empoleon,enamorus,entei,+excadrill,+feraligatr,+florges,+gallade,+garchomp,+gardevoir,genesect,+gengar,+gholdengo,+gigalith,giratina,+glaceon,+gogoat,+golisopod,+golurk,+goodra,+greninja,groudon,guzzlord,+gyarados,+hariyama,+haxorus,heatran,+hippowdon,ho-oh,hoopa,+hydreigon,+incineroar,jirachi,keldeo,+kommo-o,kyogre,kyurem,landorus,latias,latios,lugia,lunala,+machamp,+magmortar,+magnezone,+mamoswine,marshadow,+melmetal,meloetta,+metagross,mew,mewtwo,+milotic,moltres,necrozma,nihilego,+overqwil,palkia,+pangoro,+passimian,+primarina,raikou,rayquaza,regirock,reshiram,+rhyperior,+roserade,+salamence,+samurott,+scizor,+skeledirge,+sneasler,+snorlax,solgaleo,suicune,+swampert,+sylveon,+tangrowth,tapu bulu,tapu fini,tapu koko,tapu lele,terrakion,thundurus,+togekiss,tornadus,+typhlosion,+tyranitar,+ursaluna,+vaporeon,victini,virizion,+walrein,xerneas,xurkitree,yveltal,zacia,zamazenta,zapdos,zarude,zekrom,zygarde	en-US
 $mlp	!legendary&!mythical&!ultra beasts&4*	en-US
+$nr	valert 🚨 **NEXT RAID** ⬇️⬇️⬇️	en-US
 $open	interactable&!lucky&!friendlevel4	en-US
 $perfect	4*&costume,background,shiny,legendary,ultra beasts,mythical	en-US
 $plegend	trade&buzzwole,cobalion,cresselia,giratina,guzzlord,kartana,raikou,regice,regirock,registeel,suicune,tapu bulu,tapu fini,tapu lele,virizion,zapdos	en-US
+$pmax	4*&dynamax,gigantamax	en-US
 $poison	+gengar,+overqwil,nihilego,+venusaur,+naganadel,+crobat,+roserade,+drapion,+revaroom,+toxicroak	en-US
 $power	lucky&!power&!candyxl&legendary,ultra beasts,shiny	en-US
 $psychic	mewtwo,necrozma,hoopa,articuno,+lunala,+alakazam,latios,+metagross,azelf,meloetta	en-US
@@ -84,6 +89,7 @@ $retro	great&cp-1500&!dark&!steel&!fairy	en-US
 $review	favorite&!pvp&!4*&!shiny&!zero&!legendary&!mythical&!ultra beasts	en-US
 $rlegend	trade&research&legendary,ultra beasts	en-US
 $rock	+rampardos,+rhyperior,terrakion,nihilego,+gigalith,+tyranitar,+aggron,+kleavor,+arcanine,+kabutops	en-US
+$ru	valert Ready up!	en-US
 $sbg	shiny&background	en-US
 $scan	pvp&!ⓛ&!Ⓖ&!Ⓤ&!4*	en-US
 $scroll	great&cp-1500&!primarina&water,fighting,dark	en-US
@@ -92,6 +98,7 @@ $shahundo	4*&shadow	en-US
 $shiny	trade&shiny	en-US
 $shundo	4*&shiny	en-US
 $slegend	trade&shiny&legendary,ultra beasts,+meltan	en-US
+$smax	shiny&dynamax,gigantamax	en-US
 $spring	great&cp-1500&!jumpluff&!roserade&!toxapex&water,grass,fairy	en-US
 $steel	necrozma,dialga,+melmetal,jirachi,+excadrill,+metagross,genesect,+magnezone,heatran,+empoleon	en-US
 $summer	great&cp-1500&normal,fire,water,grass,electric,bug	en-US
@@ -109,6 +116,7 @@ $ulbuilt	ultra&!@3move	en-US
 $ulmeta	+abomasnow,+amoonguss,+annihilape,+arcanine,+armarouge,articuno,+aurorus,+avalugg,+barbaracle,+bellibolt,+blastoise,bombirdier,+bronzong,+chesnaught,+clefable,+clodsire,+cobalion,+cofagrigus,+corviknight,+cradily,+cresselia,+dachsbun,+decidueye,dhelmise,+donphan,+dragalge,+dragapult,+dragonite,+drapion,+drifblim,+dusknoir,+electivire,+empoleon,enamorus,+feraligatr,+ferrothorn,+florges,+flygon,+forretress,+gallade,+gastrodon,genesect,+gengar,giratina,+gliscor,+gogoat,+golisopod,+golurk,+goodra,+gourgeist,+greninja,+grumpig,guzzlord,+hariyama,+hippowdon,ho-oh,+incineroar,+jellicent,+kommo-o,kyurem,+lanturn,lapras,+leavanny,+lickilicky,+lokix,lunatone,+machamp,+magnezone,+malamar,+mandibuzz,+meganium,+melmetal,meloetta,mew,mewtwo,+miltank,moltres,morpeko,+muk,+nidoqueen,+ninetales,oranguru,+overqwil,+palossand,+pangoro,+perrserker,+politoed,+poliwrath,+raichu,raikou,+rapidash,regice,regirock,registeel,relicanth,+roserade,+runerigus,+salazzle,+samurott,+sandslash,+scrafty,+serperior,+skeledirge,+skuntank,+slurpuff,+sneasler,spiritomb,+staraptor,+starmie,+steelix,stunfisk,+suicune,+swampert,+sylveon,+talonflame,tapu fini,tapu lele,+tentacruel,+thievul,+tinkaton,togedemaru,+toxtricity,+trevenant,turtonator,+typhlosion,+umbreon,+ursaring,uxie,+venusaur,+victreebel,virizion,+wailord,+walrein,+weezing,+whiscash,zapdos,zygarde	en-US
 $ulp	ultra&cp-2500&!legendary&!mythical&!ultra beasts	en-US
 $ulpower	ultra&build	en-US
+$va	valert	en-US
 $variants	alola,galar,hisui,paldea&19-20,27-28,37-38,50-51,52-53,58-59,74-76,77-78,79-80,83,88-89,100-101,102-103,104-105,110,122,128,194,199,211,215,263-264,548-549,554-555	en-US
 $walk	+caterpie,+weedle,+pidgey,+rattata,+spearow,+pikachu,+clefairy,+jigglypuff,+zubat,+geodude,+magikarp,+sentret,+hoothoot,+ledyba,+spinarak,+crobat,+slugma,+remoraid,+poochyena,+zigzagoon,+wurmple,+tailow,+surskit,+whismur,+aron,+gulpin,+wailmer,+spoink,+swablu,+barboach,+starly,+bidoof,+kricketot,+burmy,+cherubi,+patrat,+lillipup,+purrloin,+pidove,+woobat,+sewaddle,+venipede,+cottonee,+petilil,+basculin,+maractus,+dwebble,+emolga,+tynamo,+bunnelby,+fletchling,+pikipek,+yungoos,+grubbin,+stuffel,+wimpod,+skwovet	en-US
 $water	kyogre,palkia,+primarina,keldeo,+kingler,+greninja,+samurott,+empoleon,+feraligatr,+gyarados	en-US
