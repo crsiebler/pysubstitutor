@@ -310,6 +310,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>valert Jump in!</string>
+		<key>shortcut</key>
+		<string>$ji</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>little&amp;cp-500&amp;!smeargle&amp;!shuckle&amp;!gligar&amp;!stunfisk&amp;normal,grass,electric,poison,ground,flying,bug,dark</string>
 		<key>shortcut</key>
 		<string>$junglelittle</string>
@@ -334,6 +340,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>lucky&amp;dynamax,gigantamax</string>
+		<key>shortcut</key>
+		<string>$lmax</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>great&amp;cp-1500&amp;+Accelgor,Alomomola,+Ariados,+Armarouge,+Aromatisse,Audino,+Bewear,+Bisharp,+Blaziken,+Blissey,+Braviary,Bruxish,Buzzwole,+Camerupt,Castform,+Charizard,Cherrim,+Clefable,Corsola,+Crawdaunt,+Crustle,+Darmanitan,+Deerling,+Delphox,Druddigon,+Dwebble,+Electrode,+Emboar,+Exeggcute,+Flaaffy,Flareon,+Goldeen,+Gorebyss,+Hatterene,+Heatmor,+Incineroar,+Jynx,+Kingler,+Kricketune,+Krookodile,Latias,+Ledian,+Lickilicky,+Lurantis,+Lycanroc,+Magcargo,+Magmortar,+Medicham,+Mesprit,+Milotic,Miltank,+Mr. Mime,+Musharna,+Octillery,+Oricorio,+Parasect,+Porygon,Rotom,+Scizor,+Scolipede,+Scrafty,+Seaking,+Simisear,+Skeledirge,+Slowpoke,Snubbull,Solrock,Sylveon,+Talonflame,Throh,Turtonator,+Tyrantrum,+Vileplume,+Vivillon,+Wigglytuff,+Wormadam,+Wugtrio,+Yanma</string>
 		<key>shortcut</key>
 		<string>$love</string>
@@ -355,6 +367,12 @@
 		<string>81,82,133,299,704,705,739</string>
 		<key>shortcut</key>
 		<string>$lureevolve</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>evolve&amp;+mankey&amp;4*,pvp</string>
+		<key>shortcut</key>
+		<string>$mankey</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -406,6 +424,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>valert 🚨 **NEXT RAID** ⬇️⬇️⬇️</string>
+		<key>shortcut</key>
+		<string>$nr</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>interactable&amp;!lucky&amp;!friendlevel4</string>
 		<key>shortcut</key>
 		<string>$open</string>
@@ -421,6 +445,12 @@
 		<string>trade&amp;buzzwole,cobalion,cresselia,giratina,guzzlord,kartana,raikou,regice,regirock,registeel,suicune,tapu bulu,tapu fini,tapu lele,virizion,zapdos</string>
 		<key>shortcut</key>
 		<string>$plegend</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>4*&amp;dynamax,gigantamax</string>
+		<key>shortcut</key>
+		<string>$pmax</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -508,6 +538,12 @@
 	</dict>
 	<dict>
 		<key>phrase</key>
+		<string>valert Ready up!</string>
+		<key>shortcut</key>
+		<string>$ru</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
 		<string>shiny&amp;background</string>
 		<key>shortcut</key>
 		<string>$sbg</string>
@@ -553,6 +589,12 @@
 		<string>trade&amp;shiny&amp;legendary,ultra beasts,+meltan</string>
 		<key>shortcut</key>
 		<string>$slegend</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>shiny&amp;dynamax,gigantamax</string>
+		<key>shortcut</key>
+		<string>$smax</string>
 	</dict>
 	<dict>
 		<key>phrase</key>
@@ -655,6 +697,12 @@
 		<string>ultra&amp;build</string>
 		<key>shortcut</key>
 		<string>$ulpower</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>valert </string>
+		<key>shortcut</key>
+		<string>$va</string>
 	</dict>
 	<dict>
 		<key>phrase</key>

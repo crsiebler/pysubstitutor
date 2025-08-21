@@ -51,14 +51,17 @@
 | $hlegend | trade&!distant&!background&legendary,ultra beasts |
 | $holidaylittle | little&cp-500&normal,grass,electric,flying,ghost,ice |
 | $ice | kyurem,+baxcalibur,+darmanitan,+weavile,+glaceon,+mamoswine,+cetitan,+mr. Rime, articuno,+avalugg |
+| $ji | valert Jump in! |
 | $junglelittle | little&cp-500&!smeargle&!shuckle&!gligar&!stunfisk&normal,grass,electric,poison,ground,flying,bug,dark |
 | $legendary | trade&legendary,ultra beasts |
 | $llbuild | pvp&little&!build&@3move,cp-490 |
 | $llegend | lucky&legendary,ultra beasts |
+| $lmax | lucky&dynamax,gigantamax |
 | $love | great&cp-1500&+Accelgor,Alomomola,+Ariados,+Armarouge,+Aromatisse,Audino,+Bewear,+Bisharp,+Blaziken,+Blissey,+Braviary,Bruxish,Buzzwole,+Camerupt,Castform,+Charizard,Cherrim,+Clefable,Corsola,+Crawdaunt,+Crustle,+Darmanitan,+Deerling,+Delphox,Druddigon,+Dwebble,+Electrode,+Emboar,+Exeggcute,+Flaaffy,Flareon,+Goldeen,+Gorebyss,+Hatterene,+Heatmor,+Incineroar,+Jynx,+Kingler,+Kricketune,+Krookodile,Latias,+Ledian,+Lickilicky,+Lurantis,+Lycanroc,+Magcargo,+Magmortar,+Medicham,+Mesprit,+Milotic,Miltank,+Mr. Mime,+Musharna,+Octillery,+Oricorio,+Parasect,+Porygon,Rotom,+Scizor,+Scolipede,+Scrafty,+Seaking,+Simisear,+Skeledirge,+Slowpoke,Snubbull,Solrock,Sylveon,+Talonflame,Throh,Turtonator,+Tyrantrum,+Vileplume,+Vivillon,+Wigglytuff,+Wormadam,+Wugtrio,+Yanma |
 | $lucky | interactable&friendlevel4&!lucky |
 | $lundo | 4*&lucky |
 | $lureevolve | 81,82,133,299,704,705,739 |
+| $mankey | evolve&+mankey&4*,pvp |
 | $max | 4*&!maxed&power |
 | $mega | megaevolve&mega1-2 |
 | $megable | +venusaur,+charizard,+blastoise,+alakazam,+gengar,kangaskhan,pinsir,+gyarados,aerodactyl,mewtwo,+ampharos,+scizor,heracross,+houndoom,+tyranitar,+blaziken,+gardevoir,mawile,+aggron,+medicham,+manetric,+banette,absol,latias,latios,+garchomp,+lucario,+abomasnow,+beedrill,+pidgeot,+slowbro,+steelix,+sceptile,+swampert,sableye,+sharpedo,+camerupt,+altaria,+glalie,+salamence,+metagross,rayquaza,+lopunny,+gallade,audino,diancie,groudon,kyogre |
@@ -67,9 +70,11 @@
 | $mlbuilt | master&maxed&!@3move |
 | $mlmeta | +annihilape,+armarouge,articuno,+avalugg,+baxcalibur,+beartic,+bewear,blacephalon,buzzwole,+ceruledge,+cetitan,+chandelure,+charizard,+chesnaught,cobalion,+conkeldurr,+cresselia,+cursola,darkrai,+darmanitan,+decidueye,dhelmise,dialga,+donphan,+dragapult,+dragonite,+electivire,+empoleon,enamorus,entei,+excadrill,+feraligatr,+florges,+gallade,+garchomp,+gardevoir,genesect,+gengar,+gholdengo,+gigalith,giratina,+glaceon,+gogoat,+golisopod,+golurk,+goodra,+greninja,groudon,guzzlord,+gyarados,+hariyama,+haxorus,heatran,+hippowdon,ho-oh,hoopa,+hydreigon,+incineroar,jirachi,keldeo,+kommo-o,kyogre,kyurem,landorus,latias,latios,lugia,lunala,+machamp,+magmortar,+magnezone,+mamoswine,marshadow,+melmetal,meloetta,+metagross,mew,mewtwo,+milotic,moltres,necrozma,nihilego,+overqwil,palkia,+pangoro,+passimian,+primarina,raikou,rayquaza,regirock,reshiram,+rhyperior,+roserade,+salamence,+samurott,+scizor,+skeledirge,+sneasler,+snorlax,solgaleo,suicune,+swampert,+sylveon,+tangrowth,tapu bulu,tapu fini,tapu koko,tapu lele,terrakion,thundurus,+togekiss,tornadus,+typhlosion,+tyranitar,+ursaluna,+vaporeon,victini,virizion,+walrein,xerneas,xurkitree,yveltal,zacia,zamazenta,zapdos,zarude,zekrom,zygarde |
 | $mlp | !legendary&!mythical&!ultra beasts&4* |
+| $nr | valert 🚨 **NEXT RAID** ⬇️⬇️⬇️ |
 | $open | interactable&!lucky&!friendlevel4 |
 | $perfect | 4*&costume,background,shiny,legendary,ultra beasts,mythical |
 | $plegend | trade&buzzwole,cobalion,cresselia,giratina,guzzlord,kartana,raikou,regice,regirock,registeel,suicune,tapu bulu,tapu fini,tapu lele,virizion,zapdos |
+| $pmax | 4*&dynamax,gigantamax |
 | $poison | +gengar,+overqwil,nihilego,+venusaur,+naganadel,+crobat,+roserade,+drapion,+revaroom,+toxicroak |
 | $power | lucky&!power&!candyxl&legendary,ultra beasts,shiny |
 | $psychic | mewtwo,necrozma,hoopa,articuno,+lunala,+alakazam,latios,+metagross,azelf,meloetta |
@@ -84,6 +89,7 @@
 | $review | favorite&!pvp&!4*&!shiny&!zero&!legendary&!mythical&!ultra beasts |
 | $rlegend | trade&research&legendary,ultra beasts |
 | $rock | +rampardos,+rhyperior,terrakion,nihilego,+gigalith,+tyranitar,+aggron,+kleavor,+arcanine,+kabutops |
+| $ru | valert Ready up! |
 | $sbg | shiny&background |
 | $scan | pvp&!ⓛ&!Ⓖ&!Ⓤ&!4* |
 | $scroll | great&cp-1500&!primarina&water,fighting,dark |
@@ -92,6 +98,7 @@
 | $shiny | trade&shiny |
 | $shundo | 4*&shiny |
 | $slegend | trade&shiny&legendary,ultra beasts,+meltan |
+| $smax | shiny&dynamax,gigantamax |
 | $spring | great&cp-1500&!jumpluff&!roserade&!toxapex&water,grass,fairy |
 | $steel | necrozma,dialga,+melmetal,jirachi,+excadrill,+metagross,genesect,+magnezone,heatran,+empoleon |
 | $summer | great&cp-1500&normal,fire,water,grass,electric,bug |
@@ -109,6 +116,7 @@
 | $ulmeta | +abomasnow,+amoonguss,+annihilape,+arcanine,+armarouge,articuno,+aurorus,+avalugg,+barbaracle,+bellibolt,+blastoise,bombirdier,+bronzong,+chesnaught,+clefable,+clodsire,+cobalion,+cofagrigus,+corviknight,+cradily,+cresselia,+dachsbun,+decidueye,dhelmise,+donphan,+dragalge,+dragapult,+dragonite,+drapion,+drifblim,+dusknoir,+electivire,+empoleon,enamorus,+feraligatr,+ferrothorn,+florges,+flygon,+forretress,+gallade,+gastrodon,genesect,+gengar,giratina,+gliscor,+gogoat,+golisopod,+golurk,+goodra,+gourgeist,+greninja,+grumpig,guzzlord,+hariyama,+hippowdon,ho-oh,+incineroar,+jellicent,+kommo-o,kyurem,+lanturn,lapras,+leavanny,+lickilicky,+lokix,lunatone,+machamp,+magnezone,+malamar,+mandibuzz,+meganium,+melmetal,meloetta,mew,mewtwo,+miltank,moltres,morpeko,+muk,+nidoqueen,+ninetales,oranguru,+overqwil,+palossand,+pangoro,+perrserker,+politoed,+poliwrath,+raichu,raikou,+rapidash,regice,regirock,registeel,relicanth,+roserade,+runerigus,+salazzle,+samurott,+sandslash,+scrafty,+serperior,+skeledirge,+skuntank,+slurpuff,+sneasler,spiritomb,+staraptor,+starmie,+steelix,stunfisk,+suicune,+swampert,+sylveon,+talonflame,tapu fini,tapu lele,+tentacruel,+thievul,+tinkaton,togedemaru,+toxtricity,+trevenant,turtonator,+typhlosion,+umbreon,+ursaring,uxie,+venusaur,+victreebel,virizion,+wailord,+walrein,+weezing,+whiscash,zapdos,zygarde |
 | $ulp | ultra&cp-2500&!legendary&!mythical&!ultra beasts |
 | $ulpower | ultra&build |
+| $va | valert |
 | $variants | alola,galar,hisui,paldea&19-20,27-28,37-38,50-51,52-53,58-59,74-76,77-78,79-80,83,88-89,100-101,102-103,104-105,110,122,128,194,199,211,215,263-264,548-549,554-555 |
 | $walk | +caterpie,+weedle,+pidgey,+rattata,+spearow,+pikachu,+clefairy,+jigglypuff,+zubat,+geodude,+magikarp,+sentret,+hoothoot,+ledyba,+spinarak,+crobat,+slugma,+remoraid,+poochyena,+zigzagoon,+wurmple,+tailow,+surskit,+whismur,+aron,+gulpin,+wailmer,+spoink,+swablu,+barboach,+starly,+bidoof,+kricketot,+burmy,+cherubi,+patrat,+lillipup,+purrloin,+pidove,+woobat,+sewaddle,+venipede,+cottonee,+petilil,+basculin,+maractus,+dwebble,+emolga,+tynamo,+bunnelby,+fletchling,+pikipek,+yungoos,+grubbin,+stuffel,+wimpod,+skwovet |
 | $water | kyogre,palkia,+primarina,keldeo,+kingler,+greninja,+samurott,+empoleon,+feraligatr,+gyarados |
