@@ -145,3 +145,9 @@ desktop.ini
 .env.production
 .env.test
 .env.*
+
+# Project data artifacts (untracked generated / local input files)
+data/input/text_substitutions.plist
+data/output/dictionary.md
+data/output/dictionary.txt
+data/output/PersonalDictionary.zip
